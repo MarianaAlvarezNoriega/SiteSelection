@@ -46,3 +46,6 @@ The *survival.csv* has survival data for one seeding unit and species combinatio
 * n_trial - number of tabs/plugs with spat from at the time of deployment
 * n_surv - number of tabs/plugs with living spat at the time of census
 * Lead Researcher- researcher leading the coral seeding deployment
+
+### Reference ##
+Humanes, A., Fabricius, K.E., Ferrari, R. & Ortiz, J.C. (2025) Ecological quantitative criteria for reef site prioritisation to maximise survivorship and growth of outplanted corals. Journal of Environmental Management, 392, 126585.
