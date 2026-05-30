@@ -6,8 +6,8 @@ Analyses to test a site selection framework for seeded coral deployments. We tes
 
 ## Description of the folder structure ##
 
-There should be three folders: **data** (contains the raw data), **scripts** (contains two R scripts, one that containd the functions and
-one that runs the analyses and generates the figures), and **outputs** (where the plots will be saved).
+There should be three folders: **data** (contains the raw data), **scripts** (contains two R scripts, one that contains the functions -*functions.R*- and
+one that runs the analyses and generates the figures - *analyses.R*), and **outputs** (where the plots will be saved).
 
 
 ### Description of the data ##
